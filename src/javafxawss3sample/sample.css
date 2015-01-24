@@ -1,0 +1,4 @@
+.tab-pane *.tab-header-background {
+    -fx-background-color: #aa5f39;
+    -fx-effect: innershadow(two-pass-box , rgba(255,201,174,0.0) , 4, 0.0 , 0 , 0);
+}
